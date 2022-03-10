@@ -1,0 +1,17 @@
+@import 'global';
+@import 'fonts';
+@import 'vareables';
+@import "mixins";
+
+@import "~normalize.css";
+
+@import "./header.scss";
+
+
+// font icons
+$fontello-font-path : "../fonts";
+$fontello-font-name : "fontello";
+
+@import "~fontello-sass/fontello";
+
+@import "./icons.scss";

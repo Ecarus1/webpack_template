@@ -1,0 +1,13 @@
+@import 'mixins';
+
+.icon-cursore {
+    @include fontello( \e800 ); // \e800 is the fontello code
+}
+
+.icon-speeker {
+    @include fontello( \e800 ); // \e800 is the fontello code
+}
+
+.icon-facebook {
+    @include fontello( \e800 ); // \e800 is the fontello code
+}

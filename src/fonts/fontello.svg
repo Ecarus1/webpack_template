@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2022 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="cursor" unicode="&#xe800;" d="M0 350h501v-500h56l445 1000-1002-444v-56z" horiz-adv-x="1056" />
+
+<glyph glyph-name="speaker" unicode="&#xe801;" d="M856 155l-134 15c-32 4-64-7-87-30l-97-96c-149 75-271 197-347 346l97 98c23 22 34 54 31 86l-16 133c-6 53-51 93-105 93h-91c-60 0-109-50-105-109 27-449 388-809 838-836 59-4 109 45 109 105v91c0 53-40 98-93 104z" horiz-adv-x="1000" />
+
+<glyph glyph-name="facebook" unicode="&#xe802;" d="M875 850h-750c-69 0-125-56-125-125v-750c0-69 56-125 125-125h375v344h-125v156h125v125c0 104 84 188 188 188h125v-157h-63c-34 0-62 4-62-31v-125h156l-63-156h-93v-344h187c69 0 125 56 125 125v750c0 69-56 125-125 125z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>

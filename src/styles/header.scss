@@ -1,0 +1,94 @@
+.header {
+    width: 100%;
+    height: 720px;
+    background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 59.03%),
+                linear-gradient(0deg, #651FFF -1.81%, #FF5900 33.5%, rgba(253, 191, 15, 0.3) 84.16%, rgba(253, 192, 18, 0.30875) 84.17%, #FFFFFF 145.56%), #FDBF0F;
+    font-family: "Roboto Condensed";
+
+    &__navigation {
+        display: flex;
+        justify-content: space-between;
+        width: 1177px;
+        margin: 14px auto 0 auto;
+    }
+
+    &__logo {
+        font-weight: bold;
+        text-transform: uppercase;
+        font-size: 48px;
+        line-height: 56.25px;
+    }
+
+    &__menu {
+    }
+}
+
+.list {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    &__item {
+    }
+
+    &__content {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    &__address {
+        font-family: 'Roboto', sans-serif;
+    }
+
+    &__number-box {
+    }
+
+    &__number {
+    }
+
+    &__email {
+    }
+
+    &__button {
+    }
+
+    &__background {
+    }
+
+    &__background-title {
+    }
+
+    &_link {
+        font-size: 16px;
+        font-weight: bold;
+        text-decoration: none;
+        color: var(--primary-color);
+    }
+}
+
+.list-navigation {
+    width: 844px;
+    margin-top: 10px;
+}
+
+.list-contacts {
+    width: 764px;
+}
+
+.list-contacts {
+}
+.my-cursor {
+}
+.my-speeker {
+}
+
+
+.button {
+}
+
+.button.play {
+    // background-image: url(images/play-button.png);
+}
